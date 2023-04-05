@@ -8,3 +8,6 @@
 .gradient-yellow-btn{
     background: linear-gradient(89.1deg, #FAE17E -53.48%, #FFFFFF 138.78%);
 }
+.gradient-yellow-bg{
+    background: linear-gradient(180deg, #EDC100 -52.64%, rgba(251, 231, 144, 0) 100%);
+}

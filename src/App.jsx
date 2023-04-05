@@ -2,6 +2,7 @@ import React from 'react';
 import Footer from './components/Footer';
 import Section2 from './components/Section2';
 import Section3 from './components/Section3';
+import Section4 from './components/Section4';
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <Section3/>
 
       {/* Partners Section */}
+      <Section4/>
 
       {/* Community Section */}
 
