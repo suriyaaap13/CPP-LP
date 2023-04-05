@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './components/Footer';
-import Exchange from './components/Exchange';
+import Section2 from './components/Section2';
 
 export default function App() {
   return (
@@ -9,7 +9,7 @@ export default function App() {
       {/* Hero Section Header or Heading */}
 
       {/* Component to show data in alternating manner */}
-      <Exchange/>
+      <Section2/>
 
       {/* Together we code better Section */}
 
