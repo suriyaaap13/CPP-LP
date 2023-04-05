@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from './components/Footer';
 import Section2 from './components/Section2';
+import Section3 from './components/Section3';
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <Section2/>
 
       {/* Together we code better Section */}
+      <Section3/>
 
       {/* Partners Section */}
 
